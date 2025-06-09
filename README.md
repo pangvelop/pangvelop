@@ -1,12 +1,12 @@
-<!-- 방문자 수 뱃지 -->
+<!-- visitor badge -->
 <p align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=pangvelop.pangvelop" alt="visitor badge"/>
 </p>
 
 # 👋 I'm Pangvelop
 
-안녕하세요, 꾸준히 성장하는 개발자 **Pangvelop**입니다.<br>
-깃허브 활동과 기술 스택을 아래에서 확인해보세요!
+Hello! I'm Pangvelop, a developer growing step by step every day.
+I enjoy learning new technologies and building fun projects.
 
 ---
 
